@@ -6,7 +6,7 @@ A player-level machine learning tool that answers the single hardest question a 
 
 Give it a batter, two bowling options and the match state, and it returns a **risk matrix** and a **recommendation**, built from real IPL + T20 international history.
 
-> **Live app:** <!-- paste your Streamlit URL here --> · Built with Python · scikit-learn · Streamlit
+> **Live app:** "https://deathoverpredictor-6nuegnyzuqw7bzfrsnfu9t.streamlit.app/" · Built with Python · scikit-learn · Streamlit
 
 ---
 
